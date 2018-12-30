@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.a_half{
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  width: 50%;
+  height: 100%;
+}
+.a_half2{
+  position: relative;
+  width: 50%;
+  height: 648px;
+  overflow: auto;
+}
+@keyframes float-up {
+  0% {
+      opacity: 0;
+      top: 4rem;
+  }
+  100% {
+      opacity: 1;
+      top: 0;
+  }
+}
+
+.float-up {
+  opacity: 0;
+  position: relative;
+  animation-name: float-up;
+  animation-duration: 0.45s;
+  animation-fill-mode: forwards;
+}
+.name{
+  width: 200px;
+  height: 40px;
+}
+.message{
+  width: 600px;
+  height: 400px;
+}
+.submit{
+  position: fixed;
+  top: 10%;
+  left: 80%;
+  width: 60px;
+  height: 40px;
+}
+
+

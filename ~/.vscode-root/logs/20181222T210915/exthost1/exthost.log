@@ -1,0 +1,84 @@
+[2018-12-22 21:09:23.662] [exthost] [info] extension host started
+[2018-12-22 21:09:23.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:23.732] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-22 21:09:23.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:23.864] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-22 21:09:23.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:23.946] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-22 21:09:24.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:24.301] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-22 21:09:24.336] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:24.337] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-12-22 21:09:24.543] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:24.543] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/dbaeumer.vscode-eslint-1.7.2/client/out/extension
+[2018-12-22 21:09:24.793] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:24.793] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2018-12-22 21:09:25.373] [exthost] [info] eager extensions activated
+[2018-12-22 21:09:34.192] [exthost] [info] extension host started
+[2018-12-22 21:09:34.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.259] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-22 21:09:34.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.272] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-22 21:09:34.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.318] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-22 21:09:34.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.580] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-22 21:09:34.591] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.591] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-12-22 21:09:34.606] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.606] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/dbaeumer.vscode-eslint-1.7.2/client/out/extension
+[2018-12-22 21:09:34.713] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:09:34.713] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2018-12-22 21:09:35.058] [exthost] [info] eager extensions activated
+[2018-12-22 21:10:18.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:10:18.690] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-22 21:10:18.910] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:10:18.910] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2018-12-22 21:10:19.010] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:10:19.010] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/leizongmin.node-module-intellisense-1.5.0/out/src/extension
+[2018-12-22 21:10:19.061] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:10:19.061] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.21/dist/extension
+[2018-12-22 21:10:51.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-12-22 21:10:51.640] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2018-12-22 21:34:45.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:34:45.490] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-22 21:34:45.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:34:45.548] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-22 21:34:45.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:34:45.780] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2018-12-22 21:34:45.946] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:34:45.946] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/eg2.vscode-npm-script-0.3.5/out/src/main
+[2018-12-22 21:38:02.226] [exthost] [info] extension host started
+[2018-12-22 21:38:02.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:02.296] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-22 21:38:02.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:02.323] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-22 21:38:02.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:02.385] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-22 21:38:02.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:02.707] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-22 21:38:02.760] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:02.760] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-12-22 21:38:03.002] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:03.002] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/dbaeumer.vscode-eslint-1.7.2/client/out/extension
+[2018-12-22 21:38:03.330] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-12-22 21:38:03.330] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2018-12-22 21:38:04.072] [exthost] [info] eager extensions activated
+[2018-12-22 21:38:10.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:38:10.517] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-22 21:38:10.712] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:38:10.713] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2018-12-22 21:38:10.823] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:38:10.823] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/leizongmin.node-module-intellisense-1.5.0/out/src/extension
+[2018-12-22 21:38:10.856] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-22 21:38:10.856] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.21/dist/extension
+[2018-12-22 21:38:27.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-12-22 21:38:27.991] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2018-12-22 21:50:16.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:50:16.784] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-22 21:50:16.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:50:16.926] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-22 21:50:17.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:50:17.203] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2018-12-22 21:50:17.284] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-22 21:50:17.284] [exthost] [info] ExtensionService#loadCommonJSModule /home/tung2389/.vscode/extensions/eg2.vscode-npm-script-0.3.5/out/src/main
