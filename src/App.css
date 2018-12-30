@@ -64,10 +64,14 @@
 .name{
   width: 200px;
   height: 40px;
+  background-color: black;
+  color: rgb(44, 252, 2);
 }
 .message{
   width: 600px;
   height: 400px;
+  background-color: black;
+  color: rgb(44, 252, 2);
 }
 .submit{
   position: fixed;
@@ -75,6 +79,15 @@
   left: 80%;
   width: 60px;
   height: 40px;
+  background-color: white;
+  border-color: blue;
+  transition: 0.5s;
 }
-
-
+.submit:hover{
+  background-color: blue;
+  color: white;
+}
+.all{
+  background-color: black;
+  color: rgb(0, 255, 0);
+}

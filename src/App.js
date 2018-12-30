@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import LazyLoad from 'react-lazy-load';
 import './App.css';
 
 class App extends React.Component{
@@ -89,7 +88,7 @@ class App extends React.Component{
       (this.state.data)
       ?
       (
-      <div className = "float-up">
+      <div className = "all float-up">
         <div className = "a_half2">
           <h1>Recent message</h1>
           {this.renderData()}
@@ -105,7 +104,19 @@ class App extends React.Component{
       )
       :
       (
-        <div align = "center">Loading...</div>
+        <div className = "all">
+        <div className = "a_half2">
+          <h1>Recent message</h1>
+          <div>Loading...</div>
+        </div>
+        <div className = "a_half">
+          <button className = "submit" onClick = {this.submit}>Send</button>
+          <h1>Your name</h1>
+          <input name = "signature" className = "name" onChange = {this.change_signature}></input>
+          <h1>Message</h1>
+          <textarea name = "message" className = "message" onChange = {this.change_message}></textarea>
+        </div>
+        </div>
       )
     );
   }
