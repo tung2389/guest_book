@@ -4,8 +4,8 @@ VERY IMPORTANT NOTE:
    - The slice() is very different from "=" in object. If slice() return a reference, it will return reference of EACH ITEM in array, and the "=" return the reference to the whole array. This is an example:
    
    
-      data2 = data1.slice();
-      data2.reverse(); // data1 isn't reversed.
+      -data2 = data1.slice();
+      -data2.reverse(); // data1 isn't reversed.
       
-      data2 = data1;
-      data2.reverse(); // data1 is reversed.
+      -data2 = data1;
+      -data2.reverse(); // data1 is reversed.
