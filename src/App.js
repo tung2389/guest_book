@@ -21,7 +21,6 @@ class App extends React.Component{
     await fetch("https://lkt-back-end.herokuapp.com/guest_book/api/signature")
     .then(response => response.json()
     .then(data => this.setState({data:data})));
-    console.log(this.state.data);
     }
     catch(err)
     {
@@ -53,7 +52,6 @@ class App extends React.Component{
     await fetch("https://lkt-back-end.herokuapp.com/guest_book/api/signature")
     .then(response => response.json()
     .then(data => this.setState({data:data})));
-    console.log(this.state.data);
     }
     catch(err)
     {
@@ -70,7 +68,7 @@ class App extends React.Component{
       time = new Date(time);
       return(
         <div key = {obj._id}>
-        <span>Time: {time.getHours() + "h " + time.getMinutes() + "m " + time.getSeconds() + "s " + time.getDate() + "/" + time.getMonth() + "/" + time.getFullYear()}</span>
+        <span>Time: {time.getHours() + "h " + time.getMinutes() + "m " + time.getSeconds() + "s " + time.getDate() + "/" + (time.getMonth()+1) + "/" + time.getFullYear()}</span>
         <br/>
         <span>Name: {obj.Guest_Signature}</span>
         <div>
