@@ -5,9 +5,7 @@ VERY IMPORTANT NOTE:
    
    
       data2 = data1.slice();
-      
       data2.reverse(); // data1 isn't reversed.
       
       data2 = data1;
-      
       data2.reverse(); // data1 is reversed.
